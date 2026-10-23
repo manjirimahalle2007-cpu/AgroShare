@@ -1,0 +1,6 @@
+{
+  "name": "AgriShare - Smart Farm Equipment Sharing & Scheduling Platform",
+  "description": "Smart Farm Equipment Sharing, Scheduling & Crop Advisory Platform with AI Scanner and Role-Based Dashboards",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
